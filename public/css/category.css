@@ -1,0 +1,48 @@
+
+
+
+.category_link {
+    background-color:#f6f6f6;
+    border-style: solid;
+    border-color: #e3e3e3;
+    border-width: thin;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    position: relative
+}
+
+
+.category_link_header {
+    position: relative;
+    width: 100%;
+    background-color: #c9c9c9;
+    margin: 0;
+}
+
+
+.category_link_header_text {
+    font-size: 120%;
+    font-weight: bold;
+    color: #333333;
+}
+
+
+.category_link_summary {
+    position: relative;
+    margin: 0;
+    padding: 2%;
+}
+
+
+.category_link_summary_text {
+    font-size: 100%
+}
+
+.category_link_summary_preview {
+    text-align: center
+}
+
+
+.category_link_summary_preview_img {
+    width: 60%
+}

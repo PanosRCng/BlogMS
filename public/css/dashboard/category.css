@@ -1,0 +1,89 @@
+
+
+
+.delete_form {
+    text-align: right;
+    padding-bottom: 5%;
+}
+
+
+.delete_button {
+    color: #ffffff;
+    background-color: #d91200;
+    border-color: #d91200;
+    font-weight: bold;
+}
+
+
+.preview_area {
+    margin-bottom: 2%;
+}
+
+.preview_button {
+    color: #ffffff;
+    background-color: #0274d1;
+    border-color: #0274d1;
+    font-weight: bold;
+}
+
+
+.form_container {
+    border-style: solid;
+    border-color: #e3e3e3;
+    border-width: thin;
+    padding: 2%;
+}
+
+.form {
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+
+
+.create_container {
+    border-style: solid;
+    border-color: #e3e3e3;
+    border-width: thin;
+    padding: 1%;
+    margin-top: 5%;
+}
+
+.create_form {
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+
+.header {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+.header_column {
+    background-color: #333333;
+    color: #fafafa;
+    border-style: solid;
+    border-color: #fafafa;
+    border-width: thin;
+    padding: 1%;
+}
+
+.column_centered {
+    text-align: center;
+}
+
+
+.item_column {
+    background-color: #e3e3e3;
+    border-style: solid;
+    border-color: #fafafa;
+    border-width: thin;
+}
+
+
+.item_column_text {
+    margin-bottom: 0;
+    margin-top: 0;
+}

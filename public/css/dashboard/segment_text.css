@@ -1,0 +1,32 @@
+
+.back_button {
+    padding-bottom: 5%;
+}
+
+
+.delete_form {
+    text-align: right;
+    padding-bottom: 5%;
+}
+
+
+.delete_button {
+    color: #ffffff;
+    background-color: #d91200;
+    border-color: #d91200;
+    font-weight: bold;
+}
+
+
+.form_container {
+    border-style: solid;
+    border-color: #e3e3e3;
+    border-width: thin;
+    padding: 2%;
+}
+
+.form {
+    width: 100%;
+    margin-bottom: 2%;
+}
+
