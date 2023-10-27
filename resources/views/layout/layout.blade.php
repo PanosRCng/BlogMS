@@ -38,7 +38,7 @@
 
 
             @if(\App\Services\SidebarService::sidebar()->title != null)
-                <div class="sidebar-heading">PanosRCng</div>
+                <div class="sidebar-heading">{{ \App\Services\SidebarService::sidebar()->title }}</div>
             @endif
 
 
